@@ -1,0 +1,6 @@
+Este script permite la modificacion de todos los archivos con un formato especifico, que se encuentran en las carpetas y sub carpetas de una ruta especifcada. la modificacion consiste en cambiar una cadena por otra.
+
+sintaxis para usar:
+
+python modificador.py rutaprincipal formato "candena a buscar" "caden a modificar"
+
